@@ -22,7 +22,7 @@ purposes.
 - Basic understanding of shellcode operations.
 - Familiarity with C#, Rust, PowerShell, ASPX, or VBA.
 
-### ⬇️ Installation
+### ⬇️ Compilation
 
 To clone and run this application, you'll need Git installed on your computer. From your command line:
 
