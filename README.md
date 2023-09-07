@@ -32,7 +32,7 @@ $ git clone https://github.com/zerx0r/dvenom
 # Go into the repository
 $ cd dvenom
 # Build the application
-$ go build /cmd/dvenom/
+$ go build -o dvenom cmd/dvenom/main.go
 ```
 
 ## 🎮 Usage
